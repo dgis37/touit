@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+}
+
+
+
+.touit:nth-child(3n+0){
+    
+  background: rgba(223, 118, 171, 0.808);;
+  margin: 0.5em;
+  padding: 5px;
+  max-width: 60rem;
+  min-width: 10rem;
+  word-wrap: break-word;
+  border-style: double;
+  border-radius: 5%;
+  
+}
+.touit:nth-child(3n+1){
+    
+  background: rgba(19, 223, 145, 0.808);
+  margin: 0.5em;
+  padding: 5px;
+  max-width: 60rem;
+  word-wrap: break-word;
+  border-style: double;
+  border-radius: 5%;
+  min-width: 10rem;
+
+}
+
+.touit:nth-child(3n+2){
+  
+  background: rgb(170, 90, 80);
+  margin: 0.5em;
+  padding: 5px;
+  max-width: 60rem;
+  word-wrap: break-word;
+  border-style: double;
+  border-radius: 5%;
+  min-width: 10rem;
+}
+
+.trend:nth-child(3n+0){
+    
+  background: rgba(223, 118, 171, 0.808);;
+  margin: 0.5em;
+  padding: 5px;
+ 
+  word-wrap: break-word;
+  border-style: double;
+  border-radius: 5%;
+  
+}
+.trend:nth-child(3n+1){
+    
+  background: rgba(19, 223, 145, 0.808);
+  margin: 0.5em;
+  padding: 5px;
+
+  word-wrap: break-word;
+  border-style: double;
+  border-radius: 5%;
+  
+
+}
+
+.trend:nth-child(3n+2){
+  
+  background: rgb(170, 90, 80);
+  margin: 0.5em;
+  padding: 5px;
+  
+  word-wrap: break-word;
+  border-style: double;
+  border-radius: 5%;
+  
+}
